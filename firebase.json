@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/task-unicom-group",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
